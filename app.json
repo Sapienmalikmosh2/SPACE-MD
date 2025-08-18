@@ -21,7 +21,7 @@
   },
   "BOT_ADMIN": {
     "description": "Enter your phone number to gain administrative access to the bot.",
-    "value": "254712345678",
+    "value": "256700273834",
     "required": true
   },
   "GITHUB_USERNAME": {
@@ -31,7 +31,7 @@
   },
    "BOT_PASSWORD": {
     "description": "This will be used as auth code for others who'll connect using the app web",
-    "value": "12345678",
+    "value": "Golden",
     "required": false
   },
    "PREMIUM_KEY": {
